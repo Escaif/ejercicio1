@@ -3,7 +3,7 @@ Crea un directorio.
 MKDIR [unidad:]ruta
 MD [unidad:]ruta
 
-Si las extensiones de comandos est n habilitadas, MKDIR cambia as¡:
+Si las extensiones de comandos estÂ n habilitadas, MKDIR cambia asÂ¡:
 
 MKDIR crea cualquier directorio intermedio de la ruta de acceso siempre 
 que sea necesario. Por ejemplo, si \a no existe:
@@ -20,5 +20,3 @@ es lo mismo que:
     chdir c
     mkdir d
 
-que es lo que hubiese tenido que escribir si las extensiones estuvieran
-deshabilitadas.
